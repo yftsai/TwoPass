@@ -1,0 +1,6 @@
+2. Try to extract some information of a spreadsheet from Google Drive
+    - Do we need to install google drive?
+    - Performance issue: can we only extract some cells of the spreadsheet?
+    
+1. Write an empty android app
+    (IDE: eclipse)
