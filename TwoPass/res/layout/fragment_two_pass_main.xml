@@ -9,8 +9,9 @@
     tools:context="com.vby.twopass.TwoPassMainActivity$PlaceholderFragment" >
 
     <TextView
+        android:id="@+id/main_content"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
+        android:text="" />
 
 </RelativeLayout>
